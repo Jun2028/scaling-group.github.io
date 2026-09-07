@@ -116,8 +116,6 @@ These frontiers concern what research produces. We may also value participating 
 
 ## What greater capacity is for
 
-Scaling research organizations should let us sustain investigations that were previously impractical and build on what we learn across many attempts. We should use that capacity to pursue questions we could barely approach before.
-
 For me, doing mathematics means both coming to understand something and hoping to contribute something new. I enjoy working through a difficult idea and the moment it finally makes sense. AI could help me grasp mathematics I could not reach alone and take part in discoveries I could not make otherwise. But having more answers available would not, by itself, give me that experience.
 
-That is why output alone cannot define mathematical progress. Correct and valuable results can multiply while the work of connecting them, explaining them, and learning from them is left undone. AI can help us do that work too. We should build research organizations that pursue understanding as deliberately as they pursue results. **Understanding is not what we get around to after making mathematics more productive. It should be part of what that productivity is for.**
+Correct and valuable results can multiply while the work of connecting them, explaining them, and learning from them is left undone. **Understanding is not what we get around to after making mathematics more productive. It should be part of what that productivity is for.**

@@ -6,15 +6,15 @@ date: 2026-09-07
 lang: en
 translation_key: producing-mathematics-understanding-mathematics
 permalink: /blogs/en/producing-mathematics-understanding-mathematics/
-abstract: "Starting late and compute-constrained, team S17 placed third out of 256 participants in IGP24 by developing mathematical constructions and eventually adopting an autonomously coordinated agent ensemble. The campaign offers an early look at research organizations that can scale beyond an individual worker—and asks what greater mathematical capacity should be for as the production of mathematics becomes cheap and abundant."
+abstract: "Starting late and compute-constrained, we placed third out of 256 participants in IGP24 by developing mathematical constructions and eventually adopting an autonomously coordinated agent ensemble. The campaign offers an early look at research organizations that can scale beyond an individual worker—and asks what greater mathematical capacity should be for as the production of mathematics becomes cheap and abundant."
 ---
 Intellectual work, once the rarest and most valuable of commodities, is on the verge of becoming cheap and abundant. This will transform mathematics more profoundly than any increase in solved problems. In [*Mathematics in the age of AI*](https://arxiv.org/abs/2608.16753), Terence Tao asks what mathematical research is trying to achieve as AI becomes capable of research-level work. Machines can increasingly develop the constructions, methods, and arguments through which the subject advances. What do we want that greater capacity to make possible, and what place should human inquiry have within it?
 
-During our [IGP24](https://competition.sair.foundation/competitions/igp24/overview) campaign, we encountered that question directly. Starting late and compute-constrained, our team relied on autonomous agent systems where machines didn't just propose candidate solutions, but developed mathematical methods and eventually coordinated their own search. The campaign became an experiment in scaling research beyond an individual worker—and an early look at what happens when the production of mathematics is automated.
+During our [IGP24](https://competition.sair.foundation/competitions/igp24/overview) campaign, we competed under the arbitrary name [S17](https://competition.sair.foundation/competitions/igp24/leaderboard): Jun Zhai, Zhikang Luo, and Guodong Tang, three NUS Mathematics graduate students. We relied on autonomous agent systems where machines didn't just propose candidate solutions, but developed mathematical methods and eventually coordinated their own search. The campaign became an experiment in scaling research beyond an individual worker—and an early look at what happens when the production of mathematics is automated.
 
 ## The IGP24 target space
 
-When the competition closed in August 2026, our team, S17, finished **third out of [256 participants](https://competition.sair.foundation/competitions/igp24/discoveries)**, with 122,239 scoreable pairs and a final score of 6266.38.
+When the competition closed in August 2026, our final collection covered 122,239 scoreable pairs and received a score of 6266.38.
 
 The competition concerned an enormous, finite slice of the inverse Galois problem over \\(\mathbb{Q}\\). For an irreducible polynomial over the rational numbers, the Galois group records the symmetries among its roots. IGP24 fixed the degree at 24 and asked participants to submit explicit monic integer polynomials covering as many pairs of transitive Galois groups and real-root signatures as possible. Here the signature \\(r\\) specifies the number of real roots.
 
